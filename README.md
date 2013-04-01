@@ -1,4 +1,5 @@
-= NoJS
+NoJS
+====
 
 The smallest possible JS framework.
 
